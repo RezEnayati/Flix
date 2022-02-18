@@ -35,5 +35,5 @@ task.resume()
 - [x] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
-<img src="https://recordit.co/qRyxkrOUiu" width=250><br>
+<img src="http://g.recordit.co/qRyxkrOUiu.gif" width=250><br>
 
